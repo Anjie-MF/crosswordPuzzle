@@ -59,7 +59,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ### Useful resources
 
-- [Website Name](website URL) - description about why this resource was useful
+- [The Word Finder](https://www.thewordfinder.com/crossword-puzzle-maker/) - Used the form to generate my own crossword puzzle, which significantly helped in ensuring that the words fit well together and in providing a solid wireframe for the puzzle. 
 - [Website Name](website URL) - description about why this resource was useful
 
 
@@ -69,4 +69,8 @@ Use this section to outline areas that you want to continue focusing on in futur
 - Frontend Mentor - [Anjie-MF](hhttps://www.frontendmentor.io/profile/Anjie-MF)
 
 
-## Acknowledgments
+## Credits
+
+- Microsoft - - [CoPilot](https://copilot.microsoft.com/) - - The crossword clues and guidance were generated with the help of an AI companion. The prompt used was:
+
+  ```For the crossword puzzle, write the "Across" clues focusing on programming languages and technologies, while the "Down" clues emphasize professional traits.```
