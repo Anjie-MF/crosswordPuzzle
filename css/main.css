@@ -83,6 +83,16 @@ select {
 body {
   background: linear-gradient(to bottom, orange, #66CCFF);
 }
+.content-wrapper {
+  outline: 3px red solid;
+}
 
+.clue-container {
+  outline: 3px purple dotted;
+}
+
+.grid-container {
+  outline: 3px white solid; 
+}
 /* ---------------------Desktop Styles-------------------------*/
 @media only screen and (min-width: 768px) {}
