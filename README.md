@@ -60,7 +60,8 @@ Use this section to outline areas that you want to continue focusing on in futur
 ### Useful resources
 
 - [The Word Finder](https://www.thewordfinder.com/crossword-puzzle-maker/) - Used the form to generate my own crossword puzzle, which significantly helped in ensuring that the words fit well together and in providing a solid wireframe for the puzzle. 
-- [Website Name](website URL) - description about why this resource was useful
+- [Layoutit!](https://grid.layoutit.com/) - Used to design and structure the grid layout for my crossword puzzle, helping to visualize and quickstart this project.
+- [Website Name](webiste URL) - description about why this resouse was useful
 
 
 ## Author
